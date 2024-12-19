@@ -1,6 +1,5 @@
 # Personal ETL Project
 
-## Class IS 640: Personal ETL Project
 This project demonstrates an end-to-end data pipeline using the **Medallion Architecture**. It consolidates multiple spreadsheets into a unified DataFrame (DF) and progressively transforms the dataset across three data layers: **Bronze**, **Silver**, and **Gold**. The result is a structured pipeline for streamlined data processing and enhanced analytics capabilities.
 
 ---
